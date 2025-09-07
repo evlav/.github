@@ -1,4 +1,4 @@
-# Evlav 2.0
+# evlaV 2.0
 > Now with 95% less schizoposting!
 
 [Evlav](https://gitlab.com/evlaV) was an automatically generated mirror of SteamOS repositories built from the Arch package sources Valve [provides](https://steamdeck-packages.steamos.cloud/archlinux-mirror/sources) to comply with various open source licenses. It was also the home to some interesting lore. Starting in August 6th, 2025, it shuttered, which prompted the creation of this replacement.
