@@ -5,4 +5,4 @@
 
 This successor features a completely rebuilt [integration tool](https://github.com/evlav/evlav) that automatically rebuilds the SteamOS Holo and Jupiter repositories and syncs individual branches (e.g., `3.5`, `3.6`) with branch point calculation. So, when going to those branches, you can see where they split from the `main` SteamOS branch. The dates are also correct, so you can see when each update happened.
 
-To be respectful to the environment, it runs in seconds when there are no new updates and only downloads index files (a few kb). It is also bandwidth sparing (packages are only downloaded once). This allows it to run multiple times a day without affecting the upstream mirror.
+To be respectful to the environment, it runs in seconds when there are no new updates and only downloads index files (a few kb). It is also bandwidth sparing (packages are only downloaded once). This allows it to run four times per day without affecting the upstream mirror.
